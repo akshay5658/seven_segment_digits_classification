@@ -15,4 +15,3 @@
 #### 2.pyimagesearch - for cnn
 #### 3.meachinelearningmastory - for implememtting the model
 
-#### next I will upload how to classify digits using FASTAI for image classification(interesting)
